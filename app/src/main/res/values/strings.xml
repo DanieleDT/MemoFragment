@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MemoMe</string>
+    <string name="back_again">Premi di nuovo per uscire</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="btnDelete">Elimina</string>
+    <string name="btnDeleteAll">Cancella note non cifrate</string>
+    <string name="confirm_password">Conferma password...</string>
+    <string name="cancel">Annulla</string>
+    <string name="confirmDelete">Sei sicuro di voler eliminare la nota?</string>
+    <string name="chooseColor">Scegli un colore</string>
+    <string name="chooseEmoji">Scegli una emoji</string>
+    <string name="confirmDeleteAll">Sei sicuro di voler eliminare tutte le note non cifrate?</string>
+    <string name="confirmDecode"></string>
+    <string name="emptyPass">Password vuota non ammessa</string>>
+    <string name="created">Creato:</string>
+    <string name="deleteAllNotEncoded">Elimina note non cifrate</string>
+    <string name="decodeText">Sei sicuro di voler decifrare la nota?</string>
+    <string name="developers">Credits:DelloVicario Milia DeTurris</string>
+    <string name="delete">Elimina</string>
+    <string name="decode">Decifra</string>
+    <string name="encodeBtn">Encode</string>
+    <string name="decodeBtn">Decode</string>
+    <string name="emojiProva">0x1f604</string>
+    <string name="handler_notes">Gestisci note</string>
+    <string name="insertText">Inserisci testo qui</string>
+    <string name="incorrectPsw">Password errata</string>
+    <string name="insertPsw">Cifra nota</string>
+    <string name="insertTitle">Inserisci titolo</string>
+    <string name="memoMe">MemoMe</string>
+    <string name="modified">Modificato:</string>
+    <string name="nothing"></string>
+    <string name="needTitle">Inserisci Titolo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ok">Ok</string>
+    <string name="pswMatch">Le password non coincidono!</string>
+    <string name="sortBy">Ordina per:</string>
+    <string name="sortTitle">Titolo</string>
+    <string name="sortDateCreation">Data creazione</string>
+    <string name="sortLastModify">Data ultima modifica</string>
+    <string name="sortColor">Colore</string>
+    <string name="sortEmoji">Emoji</string>
+    <string name="type_your_password">Inserisci la tua password...</string>
+    <string name="type_password">Inserisci Password...</string>
+    <string name="textview">TextView</string>
+    <string name="warningMemoEncoded">Nota cifrata!</string>
+    <string name="warningMemoEncodedText">La nota è cifrata,inserisci la password per visualizzarla.</string>
+    <string name="bianco">Bianco</string>
+    <string name="celeste">Celeste</string>
+    <string name="ciano">Ciano</string>
+    <string name="rosa">Rosa</string>
+    <string name="lime">Lime</string>
+    <string name="grigio">Grigio</string>
+    <string name="rosso">Rosso</string>
+    <string name="viola">Viola</string>
+    <string name="indaco">Indaco</string>
+    <string name="verde">Verde</string>
+    <string name="marrone">Marrone</string>
+    <string name="chiudi">Chiudi</string>
+    <string name="nessuna_emoji">Nessuna Emoji</string>
+    <string name="clickMe">Emoji</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="emojiRide1">0x1f604</integer>
+    <integer name="emojiSbadata2">0x1f605</integer>
+    <integer name="emojiRide3">0x1f606</integer>
+    <integer name="emojiFlirt4">0x1f609</integer>
+    <integer name="emojiLove5">0x1f60d</integer>
+    <integer name="tongue">0x1F61C</integer>
+    <integer name="funny">0x1f602</integer>
+    <integer name="emptyEmoji">0x0</integer>
+</resources>
